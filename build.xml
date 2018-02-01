@@ -7,11 +7,11 @@
 <!-- the Compile on Save feature is turned off for the project. -->
 <!-- You can turn off the Compile on Save (or Deploy on Save) setting -->
 <!-- in the project's Project Properties dialog box.-->
-<project name="Calculator" default="default" basedir=".">
-    <description>Builds, tests, and runs the project Calculator.</description>
-    <import file="nbproject/build-impl.xml"/>
+<project name="hwww" default="default" basedir=".">
+    <description>Builds, tests, and runs the project hwww.</description>
+  
     <!--
-
+  <import file="nbproject/build-impl.xml"/>
     There exist several targets which are by default empty and which can be 
     used for execution of your tasks. These targets are usually executed 
     before and after some main targets. They are: 
